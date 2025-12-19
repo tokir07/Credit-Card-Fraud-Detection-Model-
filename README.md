@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection System
+ # Credit Card Fraud Detection System
 
 ## 🎯 Project Overview
 
@@ -263,12 +263,10 @@ The model provides insights into which features contribute most to fraud detecti
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Support
+## 📞 Support :- +91 9079968792
 
 For questions, issues, or contributions:
-- **Issues**: GitHub Issues
-- **Discussions**: GitHub Discussions
-- **Email**: [Your Email]
+- **Email**: tokirkhan00291@gmail.com
 
 ## 🙏 Acknowledgments
 
